@@ -10,4 +10,4 @@
 
 # Tested macOS
 - 0.8.5
- - Ventura 13.0(22A380)
+    - Ventura 13.0(22A380)
