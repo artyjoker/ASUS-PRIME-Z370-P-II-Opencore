@@ -1,7 +1,7 @@
 # OpenCore(0.8.5) configuration on Asus Prime Z370-P II
 - Opencore 0.8.5 Asus Z370-P II
 
-![System Info](sysinf)
+![System Info](sysinfo.png)
 
 ## System Configuration 
 
