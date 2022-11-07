@@ -8,7 +8,7 @@
 - Intel - Core i7-8700K 3.2GHz 6-Core Processor
 - Radeon RX-580 4GB
 - Samsung EVO 860  m.2
-- Crucial 2133MHz 16GB * 2
+- Crucial 2666MHz 16GB * 2
 
 # Tested macOS
 - 0.8.5
